@@ -14,16 +14,16 @@
 
 
 ## Calculation
-![WhatsApp Image 2025-11-23 at 16 33 24_894d476a](https://github.com/user-attachments/assets/504dba53-71e1-495e-a3be-09394164ca5a)
+![WhatsApp Image 2025-11-27 at 14 51 53_d470005e](https://github.com/user-attachments/assets/cba2a538-22f6-4ca2-b8c8-8d05c31a3302)
 
 
 ## Graph
-![WhatsApp Image 2025-11-23 at 16 33 59_864a45a5](https://github.com/user-attachments/assets/f31a9d1b-79a0-4214-87d2-baccc8aef6fb)
+![WhatsApp Image 2025-11-27 at 14 51 40_d4235194](https://github.com/user-attachments/assets/eb144c76-b7f5-4e6f-a90b-805fc6984474)
 
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-![WhatsApp Image 2025-11-23 at 16 34 28_7b65ebf4](https://github.com/user-attachments/assets/6b5b780a-8729-4403-8ad4-747ccd7f8cd8)
+![WhatsApp Image 2025-11-27 at 14 52 01_bf8acef4](https://github.com/user-attachments/assets/853f90d4-5d57-4af8-8e32-b1afc3f67a91)
 
 
 Practical frequency of Oscillation = 1.086 KHz
